@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walmart.Auth", "Walmart.Auth\Walmart.Auth.csproj", "{40DE4398-E634-4A90-86ED-3D11DC4B3077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walmart.Auth.Tests", "Walmart.Auth.Tests\Walmart.Auth.Tests.csproj", "{7DDEE590-55D2-4353-978A-42834F0414C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40DE4398-E634-4A90-86ED-3D11DC4B3077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40DE4398-E634-4A90-86ED-3D11DC4B3077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40DE4398-E634-4A90-86ED-3D11DC4B3077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DDEE590-55D2-4353-978A-42834F0414C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDEE590-55D2-4353-978A-42834F0414C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDEE590-55D2-4353-978A-42834F0414C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDEE590-55D2-4353-978A-42834F0414C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
